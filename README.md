@@ -1,4 +1,4 @@
-# ted.js
+# ted.js (in progress)
 
 Create, edit and export chord diagrams using [Ted Greene's notation][1] in your
 browser.
